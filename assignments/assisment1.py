@@ -6,10 +6,7 @@
 #Perimeter of the rectangle
 #Area of the Square
 
-# Write a program to for the below:
-# a. The program should take inputs for Five Subjects. English, French, Mathematics, Physics, Chemistry
-# b. Maximum Marks is 500 (100 Per Subject)
-# c. Calculate the Percentage Scored
+
 
 radius = float(input("radius: "))
 area_cir = 3.14 * radius * radius

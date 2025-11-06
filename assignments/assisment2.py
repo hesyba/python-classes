@@ -4,15 +4,15 @@
 # c. Calculate the Percentage Scored
 
 eng=int(input("enter english marks:"))
-print(eng)
+#print(eng)
 french=float(input("enter french marks:"))
-print(french)
+#print(french)
 math=float(input("enter math marks:"))
-print(math)
+#print(math)
 phy=float(input("enter phy:"))
-print(phy)
+#print(phy)
 chem=float(input("enter chem:"))
-print(chem)
+#print(chem)
 
 print("\n marks scored in Final Exams:")
 print("_______________________________")
